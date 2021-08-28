@@ -21,4 +21,4 @@ Renkler: (*r*)ed, (*g*)reen, (*b*)lue, (*m*)agenta, (*c*)yan, (*y*)ellow <br/>
 Oyuncu, ekrana renklerin baş harflerini girerek bir tahminde bulunur. <br/>
 Tahmin neticesinde, gizli kombinasyona göre renk olarak doğru fakat yer olarak yanlış her boncuk için beyaz, hem renk hem de yer olarak doğru olan her boncuk için ise siyah çivi yerleştirilir. <br/>
 Bu program; oyuncunun girdiği renk sayısını ve renk bilgisini kontrol ederek oyuncuya bilgi vermektedir. <br/>
-Bu programın kullanıcı arayüzü (GUI), tkinter kullanarak tasarlanmıştır. <br/>
+Bu programın kullanıcı arayüzü (GUI), tkinter kullanılarak tasarlanmıştır. <br/>
